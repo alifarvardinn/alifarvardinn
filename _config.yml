@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Ali Farvardin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/photo_2024-05-04_19-22-17.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bio Goes Here."
   location         : "Earth"
   email            :
